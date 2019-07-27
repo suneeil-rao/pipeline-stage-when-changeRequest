@@ -7,7 +7,7 @@ pipeline{
                     changeRequest title: "when-pr"
                 }
             steps{
-                 echo "================ Hello world Changing Request"
+                 echo " Hello world Changing Request when title"
             }
         }
     }
